@@ -2,7 +2,7 @@ INSERT INTO bears(Mr.Chocolate, 5, 'male', 'brown', 'calm', 0);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 3, 'male', 'black', 'calm', 1);
 
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 7, 'female', 'white', 'calm', 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 7, 'F', 'white', 'calm', 0);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 2, 'male', 'brown', 'calm', 1);
 
