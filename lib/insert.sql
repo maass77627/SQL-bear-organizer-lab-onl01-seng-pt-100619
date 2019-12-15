@@ -1,6 +1,6 @@
 INSERT INTO bears(Mr.Chocolate, 5, 'male', 'brown', 'calm', true);
 
-INSERT INTO bears('Rowdy', 3, 'male', 'black', 'calm', true);
+INSERT INTO bears()('Rowdy', 3, 'male', 'black', 'calm', true);
 
 INSERT INTO bears('Tabitha', 7, 'female', 'white', 'calm', false);
 
