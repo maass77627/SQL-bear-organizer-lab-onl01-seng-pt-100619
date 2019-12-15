@@ -1,1 +1,1 @@
-INSERT INTO 
+INSERT INTO bears(MR.Chocolate, 5, male, brown, calm, true);
